@@ -7,8 +7,7 @@ Welcome to the prg1 repository! This project is written in Java and serves as a 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 
@@ -46,13 +45,3 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 3. Commit your changes (`git commit -m 'Add some feature'`)
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a pull request
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-You can reach me at:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [
